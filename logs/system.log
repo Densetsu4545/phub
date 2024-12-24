@@ -1,0 +1,91 @@
+[13:29:49][no_game_date][systemsettings.cpp:163]: OS: Windows 10 x86_64
+[13:29:49][no_game_date][systemsettings.cpp:164]: OS Lang: ja
+[13:29:49][no_game_date][systemsettings.cpp:165]: CPU Model: Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz
+[13:29:49][no_game_date][systemsettings.cpp:166]: Number of cores: 4 (8)
+[13:29:49][no_game_date][systemsettings.cpp:168]: Estimated CPU speed: 0MHz
+[13:29:49][no_game_date][systemsettings.cpp:169]: System memory: 16049MB
+[13:29:49][no_game_date][gfx_dx11.cpp:3478]: GetGraphicsSettings for Adapter: 0
+[13:29:49][no_game_date][gfx_dx11.cpp:3511]: Found Adapter: Intel(R) Iris(R) Plus Graphics
+[13:29:49][no_game_date][gfx_dx11.cpp:3534]: Using Adapter [0] to check for multi-sampling support:
+[13:29:49][no_game_date][gfx_dx11.cpp:3572]: Found available multisampling mode: 2 at Quality: 0
+[13:29:49][no_game_date][gfx_dx11.cpp:3572]: Found available multisampling mode: 4 at Quality: 0
+[13:29:49][no_game_date][gfx_dx11.cpp:3572]: Found available multisampling mode: 8 at Quality: 0
+[13:29:49][no_game_date][gfx_dx11.cpp:3572]: Found available multisampling mode: 16 at Quality: 0
+[13:29:49][no_game_date][graphicssettings.cpp:201]: 	2 samples supported.
+[13:29:49][no_game_date][graphicssettings.cpp:201]: 	4 samples supported.
+[13:29:49][no_game_date][graphicssettings.cpp:201]: 	8 samples supported.
+[13:29:49][no_game_date][graphicssettings.cpp:201]: 	16 samples supported.
+[13:29:49][no_game_date][graphicssettings.cpp:239]: Video adapter: Intel(R) Iris(R) Plus Graphics
+[13:29:49][no_game_date][graphicssettings.cpp:240]: Video driver: DirectX 11
+[13:29:49][no_game_date][graphicssettings.cpp:241]: Video driver version: 0.0.0.0
+[13:29:49][no_game_date][graphicssettings.cpp:242]: Video memory: 128
+[13:29:49][no_game_date][graphicssettings.cpp:243]: Support for Anisotropic filtering found.
+[13:29:49][no_game_date][graphicssettings.cpp:247]: 	Max Anisotropic filtering supported: 16
+[13:29:49][no_game_date][graphicssettings.cpp:248]: 	Anisotropic filtering set to: 4
+[13:29:54][no_game_date][main.cpp:2054]: Creating application...
+[13:29:54][no_game_date][pdx_speech_stt_winsapi.cpp:42]: PdxSpeechToTextWinSAPI::Initialize: microphone was not found![13:29:54][no_game_date][gameapplication.cpp:1198]: Initializing application...
+[13:29:55][no_game_date][gameapplication.cpp:1204]: Done initializing application
+[13:29:55][no_game_date][gameapplication.cpp:1207]: Loading cursor...
+[13:29:56][no_game_date][graphicssettings.cpp:780]: Using multisampling: 4
+[13:29:56][no_game_date][graphics.cpp:979]: Creating device with: HARDWARE_VERTEXPROCESSING
+	Fullscreen=no
+	Resolution=1920x1080
+	Renderer=DirectX 11
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 640 480 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 640 480 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 800 600 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 800 600 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1024 768 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1024 768 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1152 864 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1152 864 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 600 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 600 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 720 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 720 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 768 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 768 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 800 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 800 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 960 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 960 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 1024 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 1024 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1360 768 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1360 768 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1366 768 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1366 768 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1400 1050 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1400 1050 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1440 900 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1440 900 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1600 900 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1600 900 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1680 1050 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1680 1050 60
+[13:29:56][no_game_date][graphicssettings.cpp:748]: Usable res: 1920 1080 60
+[13:29:56][no_game_date][graphics.cpp:1014]: Done creating device.
+[13:31:54][no_game_date][gameapplication.cpp:1453]: Version: Kaiser v1.15.3.551d (0143) build time: Dec 12 2024 11:48:19
+[13:31:54][no_game_date][gameapplication.cpp:1458]: Active DLC Count: 18
+[13:31:54][no_game_date][gameapplication.cpp:1459]: Active Mod Count: 0
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: Allied Speeches Pack
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: Anniversary Pack
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: Arms Against Tyranny
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: Arms Against Tyranny Preorder Bonus
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: Battle for the Bosporus
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: By Blood Alone
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: By Blood Alone Preorder Bonus
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: Expansion Pass 1: Ride of the Valkyries
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: Expansion Pass 1: Supporter Pack
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: Gotterdammerung
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: Historical German Portraits
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: La Resistance
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: Man the Guns
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: No Step Back
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: No Step Back Preorder Bonus
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: Poland: United and Ready
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: Rocket Launcher Unit Pack
+[13:31:54][no_game_date][gameapplication.cpp:1463]: Active DLC: Trial of Allegiance
+[13:32:50][1936.01.01.12][graphicssettings.cpp:780]: Using multisampling: 4
+[13:33:11][1936.01.01.12][graphicssettings.cpp:780]: Using multisampling: 4
+[13:33:52][1936.01.01.12][graphicssettings.cpp:780]: Using multisampling: 4

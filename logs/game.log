@@ -1,0 +1,16 @@
+[13:29:54][no_game_date][defines.cpp:257]: 4078 defines loaded
+[13:31:37][no_game_date][gamestate.cpp:2864]: Loaded 13366 provinces.
+[13:31:49][no_game_date][gameapplication.cpp:2824]: Resetting game
+[13:31:56][1936.01.01.12][history.cpp:163]: Executing History from -1.1.1.1 to  2.1.1.1
+[13:31:57][1936.01.01.12][history.cpp:163]: Executing History from 2.1.1.1 to  1936.1.1.12
+[13:34:18][1936.01.01.12][frontend.cpp:670]: 
+
+		[[ Launching SINGLEPLAYER-game ]]
+	Start-date: 1936.1.1.12
+
+[13:34:26][1936.01.01.12][ingameidler.cpp:5090]: Start RestoreDeviceObjects
+[13:34:40][1936.01.01.12][ingameidler.cpp:5240]: End RestoreDeviceObjects
+[13:34:43][1936.01.01.12][effectbase.cpp:1781]: Something went wrong with the Conflict Risk stuff
+[13:35:03][1936.01.01.12][effectbase.cpp:1781]: Democratic People's Republic of Korea is declaring war on Korea
+[13:36:20][1936.02.04.01][effectbase.cpp:1781]: Fully cantons activated
+[13:37:29][1936.03.10.12][effectbase.cpp:1781]: random event 1

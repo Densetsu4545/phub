@@ -1,0 +1,17 @@
+[13:30:45][no_game_date][pdx_entity.cpp:324]: Failed to find entity "ITA_mechanized_vehicle_1_entity" for attachment in vehicle
+[13:31:07][no_game_date][equipment_graphic_database.cpp:59]: Entity referenced in equipment graphic database does not exist: "GER_super_heavy_armor_entity", associated with GER super_heavy_tank_chassis
+[13:31:07][no_game_date][equipment_graphic_database.cpp:59]: Entity referenced in equipment graphic database does not exist: "SOV_modern_armor_entity", associated with SOV modern_tank_chassis
+[13:31:07][no_game_date][equipment_graphic_database.cpp:59]: Entity referenced in equipment graphic database does not exist: "SOV_super_heavy_armor_entity", associated with SOV super_heavy_tank_chassis
+[13:31:07][no_game_date][equipment_graphic_database.cpp:59]: Entity referenced in equipment graphic database does not exist: "FRA_light_armor_2_entity", associated with FRA light_tank_chassis_3
+[13:32:55][1936.01.01.12][containerwindow.cpp:1944]: interface/frontendgamesetupview.gui(line 1467): Could not find "background" element #1 in window "difficulty_setting_item".
+[13:32:55][1936.01.01.12][containerwindow.cpp:1944]: interface/frontendgamesetupview.gui(line 1467): Could not find "background" element #1 in window "difficulty_setting_item".
+[13:32:55][1936.01.01.12][containerwindow.cpp:1944]: interface/frontendgamesetupview.gui(line 1467): Could not find "background" element #1 in window "difficulty_setting_item".
+[13:32:55][1936.01.01.12][containerwindow.cpp:1944]: interface/frontendgamesetupview.gui(line 1467): Could not find "background" element #1 in window "difficulty_setting_item".
+[13:32:55][1936.01.01.12][containerwindow.cpp:1944]: interface/frontendgamesetupview.gui(line 1467): Could not find "background" element #1 in window "difficulty_setting_item".
+[13:32:55][1936.01.01.12][containerwindow.cpp:1944]: interface/frontendgamesetupview.gui(line 1467): Could not find "background" element #1 in window "difficulty_setting_item".
+[13:32:55][1936.01.01.12][containerwindow.cpp:1944]: interface/frontendgamesetupview.gui(line 1467): Could not find "background" element #1 in window "difficulty_setting_item".
+[13:32:55][1936.01.01.12][containerwindow.cpp:1944]: interface/frontendgamesetupview.gui(line 1467): Could not find "background" element #1 in window "difficulty_setting_item".
+[13:34:42][1936.01.01.12][character_manager.cpp:252]: Failed to generate a name for a character of origins Ghana and for country Ghana
+[13:34:42][1936.01.01.12][character_manager.cpp:252]: Failed to generate a name for a character of origins Ghana and for country Ghana
+[13:34:43][1936.01.01.12][effectimplementation.cpp:13072]: common/on_actions/12_wuw_on_actions.txt:1964: create_unit -- pBestLocation was not found [reason] Not allowed on enemy provinces
+[13:34:43][1936.01.01.12][effectimplementation.cpp:13072]: common/on_actions/12_wuw_on_actions.txt:1969: create_unit -- pBestLocation was not found [reason] Not allowed on enemy provinces
